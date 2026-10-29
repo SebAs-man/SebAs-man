@@ -39,4 +39,4 @@ I am a software engineer driven by curiosity, creative problem-solving, and a de
 
 ---
 
-📬 **Let's connect:** [LinkedIn](www.linkedin.com/in/jsebastian-mantilla) | [Email](contacto@sebasman.space)
+📬 **Let's connect:** [LinkedIn](https://www.linkedin.com/in/jsebastian-mantilla) | [Email](mailto:contacto@sebasman.space)
