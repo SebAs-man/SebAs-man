@@ -45,14 +45,14 @@ Software Engineer driven by curiosity, complex problem-solving, and clean softwa
 ### GitHub Analytics & Streak
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO_GITHUB&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=SebAs-man&rank_icon=github&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=tokyonight" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=SebAs-man&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br />
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs?username=SebAs-man&layout=donut&langs_count=4&theme=tokyonight" alt="Top Languages" />
 </div>
 
 ---
