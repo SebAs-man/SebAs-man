@@ -46,7 +46,7 @@ Software Engineer driven by curiosity, complex problem-solving, and clean softwa
 
 <div align="center">
   <img height="165" src="https://github-stats-extended.vercel.app/api?username=SebAs-man&rank_icon=github&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=tokyonight" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=SebAs-man&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img height="165" src="./profile/streak.svg" alt="GitHub Streak" />
 </div>
 
 <br />
